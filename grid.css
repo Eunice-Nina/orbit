@@ -39,6 +39,10 @@ nav a{
     font-size: 14px;
     padding: 10px;
 }
+nav a:hover{
+    color: rgba(196, 8, 243, 0.938);
+    border-radius: 6px;
+}
 .side{
     margin-left: 300px;
     font-size: 16px;
