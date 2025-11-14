@@ -99,6 +99,13 @@ nav a:hover{
     background: white;
     border-radius: 6px;
     padding: 12px;
+    color: black;
+    font-size: 14px;
+    font-weight: 100px;
+}
+.grid h3{
+    font-size: 16px;
+    color: black;
 }
 .grid2{
     height: fit-content;
@@ -112,7 +119,16 @@ nav a:hover{
     width: 100%;
     background: white;
     border-radius: 6px;
+    text-transform: uppercase;
     padding: 12px;
+    color: black;
+    font-size: 14px;
+    font-weight: 100px;
+}
+.grids h3{
+    font-size: 16px;
+    color: black;
+    text-transform: uppercase;
 }
 .grid3{
      height: fit-content;
@@ -127,4 +143,16 @@ nav a:hover{
     background: white;
     border-radius: 6px;
     padding: 12px;
+    color: black;
+    font-size: 14px;
+    font-weight: 100px;
 } 
+.gridss h3{
+    font-size: 16px;
+    text-transform: uppercase;
+    color: black;
+}
+.grid p{
+    margin-top: 10px;
+    font-size: 12px;
+}
